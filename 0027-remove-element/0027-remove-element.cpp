@@ -18,7 +18,7 @@ public:
             }
             
         }
-        int k = nums.size()-cnt;
-        return k;
+        return nums.size()-cnt;
+      
     }
 };
